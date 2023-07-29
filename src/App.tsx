@@ -57,7 +57,7 @@ function App() {
             onChange={(e) => setAlcohol(Number(e.target.value))}
           />
 
-          <label>Gasoline (preço por litro):</label>
+          <label>Gasolina (preço por litro):</label>
           <input
             className="input"
             type="number"
